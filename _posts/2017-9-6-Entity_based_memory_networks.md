@@ -1,10 +1,9 @@
 ---
 layout: post
 title: "Reading Comprehension using Entity-based Memory Networks"
-exerpt: Recently the emergence of deep neural networks and distributed representations
-sheds light on such method
+date:   2017-09-06
 ---
->“ As I entered the room I saw there was a green apple kept on the table.….”
+> “ As I entered the room I saw there was a green apple kept on the table.….”
 
 -As you were reading this sentence  somewhere down the line you started imagining yourself entering a room and looking at a green apple kept on a table, you did not really remember the sentence and the words yet somewhere down the line you created an imaginary ‘existence’ of whatever was happening!  
 
