@@ -5,9 +5,9 @@ date:   2017-09-06
 ---
 > “ As I entered the room I saw there was a green apple kept on the table.….”
 
--As you were reading this sentence  somewhere down the line you started imagining yourself entering a room and looking at a green apple kept on a table, you did not really remember the sentence and the words yet somewhere down the line you created an imaginary ‘existence’ of whatever was happening!  
+- As you were reading this sentence  somewhere down the line you started imagining yourself entering a room and looking at a green apple kept on a table, you did not really remember the sentence and the words yet somewhere down the line you created an imaginary ‘existence’ of whatever was happening!  
 
--Memory networks as we saw in our previous post did something inline to this, however they remember stuff as vectors which are formed out of sentences. Often it is difficult to explore the information contained in the text specially in case of long  and complicated sentences. How often have you said “In essence the paragraph says….!” Can we train a network to do something analogous to that?    
+- Memory networks as we saw in our previous post did something inline to this, however they remember stuff as vectors which are formed out of sentences. Often it is difficult to explore the information contained in the text specially in case of long  and complicated sentences. How often have you said “In essence the paragraph says….!” Can we train a network to do something analogous to that?    
 
 
 
