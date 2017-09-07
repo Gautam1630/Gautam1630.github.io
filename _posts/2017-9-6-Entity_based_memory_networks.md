@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: True
 title: "Reading Comprehension using Entity-based Memory Networks"
 date:   2017-09-06
 ---
