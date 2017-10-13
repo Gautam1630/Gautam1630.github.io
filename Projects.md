@@ -5,4 +5,74 @@ comments: true
 title: Projects
 permalink: /Projects/
 ---
-### Comprehension Based question answering
+
+Basic results in im2latex:
+
+<script type="text/javascript" async src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML"> </script>
+1. image name
+	- **original**	
+
+	$$	
+	\alpha _ { 1 } ^ { r } \gamma _ { 1 } + \dots + \alpha _ { N } ^ { r } \gamma _ { N } = 0 \quad ( r = 1 , . . . , R ) \; , 
+	$$
+
+	- **predicted**	
+
+	$$	
+	\alpha _ { 1 } ^ { r } \gamma _ { 1 } + \ldots + \alpha _ { N } ^ { r } \gamma _ { N } = 0 \quad ( r = 1 , . . . , R ) \; , 
+	$$	
+
+	- **Loss:** -0.565209	
+
+	- **Gold's Score:** -1.754970	
+2. image name 	
+	- **original**	
+
+	$$	
+	\eta = - \frac { 1 } { 2 } \operatorname { l n } \left( \frac { \operatorname { c o s h } \left( \sqrt { 2 } b _ { \infty } \sqrt { 1 + \alpha ^ { 2 } } \; y - \mathrm { a r c s i n h } \; \alpha \right) } { \sqrt { 1 + \alpha ^ { 2 } } } \right) 	
+	$$	
+
+	- **predicted**	
+
+	$$	
+	\eta = - \frac { 1 } { 2 } \operatorname { l n } \left( \frac { \operatorname { c o s h } \left( \sqrt { 2 } b _ { \infty } \sqrt { 1 + \alpha ^ { 2 } } \; y - \operatorname { a r c s i n h } \alpha \right) } { \sqrt { 1 + \alpha ^ { 2 } } } \right) $$	
+
+	- **loss:** -2.058158	**gold score:** -3.626169
+	
+	
+3. 3c7baed0ef.png 
+
+$$T \left| n \right\rangle = \left| n + 1 \, \bmod \, k \right\rangle$$
+
+$$T \, | n \rangle = | n + 1 \, \, \, \mathrm { m o d } \, \, \, k \rangle$$ 
+
+4.65d3a10508.png
+		
+$$\hat { \mathrm { E } } ( x ) = \frac { 1 } { 1 } { L } \hat { \pi } _ { b } - \frac { i } { i } { L } \hbar \sum _ { \stackrel { p \in \cal Z } { p \neq 0 } } e ^ { - i \frac { 2 \pi } { 2 \pi } { L } p x } \frac { d } { d { \alpha _ { p } } } ,$$ 
+		
+$$\hat { \mathrm { E } } ( x ) = { \frac { 1 } { L } } \hat { T } _ { b } - { \frac { i } { L } } \hbar \sum _ { p \in z } e ^ { - i { \frac { 2 \pi } { \hbar } } p x } { \frac { d } { d \alpha _ { p } } } ,$$
+
+
+
+
+
+1. 3c7baed0ef.png
+
+$$T \left| n \right\rangle = \left| n + 1 \, \bmod \, k \right\rangle $$
+
+$$T \, | n \rangle = | n + 1 \, \, \, \mathrm { m o d } \, \, \, k \rangle $$
+
+2. 65d3a10508.png
+
+$$\hat { \mathrm { E } } ( x ) = \frac { 1 } { 1 } { L } \hat { \pi } _ { b } - \frac { i } { i } { L } \hbar \sum _ { \stackrel { p \in \cal Z } { p \neq 0 } } e ^ { - i \frac { 2 \pi } { 2 \pi } { L } p x } \frac { d } { d { \alpha _ { p } } } , $$
+$$\hat { \mathrm { E } } ( x ) = { \frac { 1 } { L } } \hat { T } _ { b } - { \frac { i } { L } } \hbar \sum _ { p \in z } e ^ { - i { \frac { 2 \pi } { \hbar } } p x } { \frac { d } { d \alpha _ { p } } } , $$
+3. 1023daee48.png
+$${ \sqcup \! \! \! \! \sqcap } \phi + \frac { \partial } { \partial \phi } V = 0 , \qquad { \sqcup \! \! \! \! \sqcap } \chi + \frac { \partial } { \partial \chi } V = 0 . $$
+$${ \tt { 1 } } \phi + { \frac { \partial } { \partial \phi } } V = 0 , \qquad { [ 1 ] \chi } + { \frac { \partial } { \partial \chi } } V = 0 . $$
+
+
+
+
+
+
+
